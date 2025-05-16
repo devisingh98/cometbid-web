@@ -1,10 +1,10 @@
 import React from "react";
-import ProjectActivityContent from "@/app/entities/ProjectContent/ProjectActivityContent";
+import ProjectActivityContentpage from "@/app/entities/ProjectContent/ProjectActivity";
 
 const ProjectActivity = () => {
     return (
         <>
-            <ProjectActivityContent />
+            <ProjectActivityContentpage />
         </>
     );
 };

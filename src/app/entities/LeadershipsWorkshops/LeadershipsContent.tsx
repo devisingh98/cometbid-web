@@ -169,7 +169,7 @@ const CTFLeadershipPage = () => {
     <>
       <section className="banner-section">
         <div className="container">
-          <div className="hero-content text-center mt-5">
+          <div className="hero-content text-center box-main-text">
             <h1 className="hero-title">
               CTF Leadership Training and <span> Workshops</span>
             </h1>

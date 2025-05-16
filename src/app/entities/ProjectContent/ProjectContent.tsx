@@ -178,7 +178,7 @@ const ProjectContent = () => {
             {/* Participate Section start here */}
             <section className="participate-section mt-80">
                 <div className="container">
-                    <div className="sec-header text-center mb-5">
+                    <div className="sec-header text-center  box-main-text">
                         <div className="page-title">
                             <h2>Participate and Contribute</h2>
                         </div>

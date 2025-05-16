@@ -1,10 +1,10 @@
 import React from "react";
-import ResourcesContent from "@/app/entities/ProjectContent/ResourcesContent";
+import ResourcesContentPage from "@/app/entities/ProjectContent/ProjectResoures";
 
 const Resources = () => {
     return (
         <>
-            <ResourcesContent /> 
+            <ResourcesContentPage /> 
         </>
     );
 };

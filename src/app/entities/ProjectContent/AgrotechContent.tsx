@@ -63,7 +63,7 @@ const AgroTechPage = () => {
         <>
             <section className="banner-section banner-agro-tech">
                 <div className="container">
-                    <div className="hero-content text-center">
+                    <div className="hero-content text-center box-main-text">
                         <h1 className="hero-title">Agro <span>Tech</span></h1>
                         <p className="hero-description">
                             Our community is innovating on the next generation of cloud native

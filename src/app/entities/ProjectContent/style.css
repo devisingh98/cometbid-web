@@ -392,6 +392,9 @@
   color: var(--background);
 }
 
+.box-main-text{
+    margin-top: 90px;
+}
 /* responsive css start */
 
 /* Extra small devices (phones) */
@@ -533,3 +536,4 @@
         font-size: 20px;
     }
 }
+

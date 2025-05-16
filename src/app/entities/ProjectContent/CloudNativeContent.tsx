@@ -69,7 +69,7 @@ const CloudNativePage = () => {
         <>
             <section className="banner-section banner-cloud-native">
                 <div className="container">
-                    <div className="hero-content text-center">
+                    <div className="hero-content text-center box-main-text">
                         <h1 className="hero-title">
                             Cloud <span>Native</span>
                         </h1>

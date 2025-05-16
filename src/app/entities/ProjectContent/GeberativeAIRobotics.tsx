@@ -63,7 +63,7 @@ const RoboticsPage = () => {
         <>
             <section className="banner-section robotics-banner">
                 <div className="container">
-                    <div className="hero-content text-center">
+                    <div className="hero-content text-center  box-main-text">
                         <h1 className="hero-title">Generative AI & <span>Robotics</span></h1>
                         <p className="hero-description">
                             Our community is innovating on the next generation of cloud native

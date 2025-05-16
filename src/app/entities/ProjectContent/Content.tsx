@@ -9,7 +9,7 @@ const ContributeContent = () => {
         <>
             <section className="banner-section">
                 <div className="container">
-                    <div className="hero-content text-center">
+                    <div className="hero-content text-center  box-main-text">
                         <h1 className="hero-title">How to <span>Contribute</span></h1>
                     </div>
                 </div>

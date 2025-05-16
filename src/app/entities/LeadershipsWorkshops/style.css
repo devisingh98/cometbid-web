@@ -55,6 +55,9 @@
     margin: 18px 0;
     line-height: 70px;
 }
+.box-main-text{
+    margin-top: 90px;
+}
 @media (max-width: 767px) {
   .custom-card {
     padding: 1rem;

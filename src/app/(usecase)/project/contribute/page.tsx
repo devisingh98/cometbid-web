@@ -1,10 +1,10 @@
 import React from "react";
-import ContributeContent from "@/app/entities/ProjectContent/ContributeContent";
+import ContributeContentPage from "@/app/entities/ProjectContent/ContributePage";
 
 const Contribute = () => {
     return (
         <>
-            <ContributeContent /> 
+          <ContributeContentPage/>
         </>
     );
 };

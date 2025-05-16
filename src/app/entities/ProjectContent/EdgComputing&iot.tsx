@@ -62,7 +62,7 @@ const EdgeContentPage = () => {
         <>
             <section className="banner-section banner-edgeiot">
                 <div className="container">
-                    <div className="hero-content text-center">
+                    <div className="hero-content text-center  box-main-text">
                         <h1 className="hero-title">
                             Edge Computing & <span>IOT</span>
                         </h1>

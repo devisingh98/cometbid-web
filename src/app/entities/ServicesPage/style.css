@@ -1,0 +1,14 @@
+.box-main-text{
+    margin-top: 90px;
+}
+
+.sevice-heding{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.sevice-text{
+   font-size: 15px;
+    color: var(--lightTitle);
+    line-height: 24px;
+}

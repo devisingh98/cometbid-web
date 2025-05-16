@@ -62,7 +62,7 @@ const FinancialPage = () => {
         <>
             <section className="banner-section  financial-banner">
                 <div className="container">
-                    <div className="hero-content text-center">
+                    <div className="hero-content text-center  box-main-text">
                         <h1 className="hero-title">Financials And <span>Banking</span></h1>
                         <p className="hero-description">
                             Our community is innovating on the next generation of cloud native

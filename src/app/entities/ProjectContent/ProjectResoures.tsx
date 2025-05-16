@@ -66,7 +66,7 @@ const ResourcesContentPage = () => {
         <>
             <section className="banner-section">
                 <div className="container">
-                    <div className="hero-content text-center">
+                    <div className="hero-content text-center  box-main-text">
                         <h1 className="hero-title">Project <span>Resources</span></h1>
   <p className="hero-description">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                 <br/> Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s,</p>
